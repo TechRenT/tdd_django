@@ -1,3 +1,4 @@
+# Last: Chapter5 - Rendering Items in the Template
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
